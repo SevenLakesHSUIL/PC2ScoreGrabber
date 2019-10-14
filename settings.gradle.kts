@@ -1,1 +1,1 @@
-rootProject.name = "pc2scoregrabber"
+rootProject.name = "PC2ScoreGrabber"
